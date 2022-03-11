@@ -1,0 +1,25 @@
+.hr{
+    border: 5px;
+    border-top: 5px dotted #ffffff;
+    width: 50px;    
+}
+
+.btn{
+    border-color: #04AA6D;
+    background-color: inherit;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+    color: rgb(0, 89, 0);
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+}
+
+.name{
+    color: rgb(1, 137, 152);
+}
+
+h3{
+    color: rgb(1, 137, 152);
+}
